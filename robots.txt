@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://poyereloketa.pages.dev/sitemap.xml
